@@ -1,0 +1,5 @@
+{
+  "name": "EzPlatform Clone",
+  "description": "A responsive React application replicating the EzPlatform dashboard UI with a focus on account management tables.",
+  "requestFramePermissions": []
+}
